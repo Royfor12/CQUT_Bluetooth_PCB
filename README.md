@@ -5,4 +5,4 @@
 立创开源链接：https://oshwhub.com/roy2333/CQUT_dian-zi-shi-xun-_lan-ya-zhu
 ## 实物图
 ![image](https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png)
-![image]([public/image/20190528145810708.png]
+![image](https://github.com/Royfor12/CQUT_Bluetooth_PCB/blob/main/Cache_-1d58c4a3c0987b2f.jpg)
